@@ -1,0 +1,12 @@
+#venv ignores (Windows)
+/CAC-detection/Include
+/CAC-detection/Lib
+/CAC-detection/Scripts
+/CAC-detection/pyvenv.cfg
+
+#venv ignores (Ubuntu)
+/CAC-detection/bin
+/CAC-detection/lib
+/CAC-detection/lib64
+/CAC-detection/share
+/CAC-detection/include
